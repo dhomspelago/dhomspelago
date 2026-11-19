@@ -1,6 +1,12 @@
-### Hi there 👋
+### Domingo Pelago
 
-<hr> 
+Full-stack developer · PHP / Laravel
+
+I build APIs, integrations and the interfaces on top — seven years of production PHP, most of it Laravel. Based in Caloocan City, Philippines.
+
+[Portfolio](https://dhomspelago.github.io/) · [LinkedIn](https://www.linkedin.com/in/dhmsplg) · [Résumé](https://dhomspelago.github.io/Domingo_Pelago_Resume.pdf)
+
+<hr>
 
 <!--
 ### Stats ⚡
